@@ -6,7 +6,7 @@ This python script will extract from the backup created by the pixels app (downl
 - Note is below the title (same as file name)
 - Emotions listed in alphabetized order.
 
-Example extracte file:
+Example extract file:
 ```MD
 # 01-28-2019
 ## Mood: okay
